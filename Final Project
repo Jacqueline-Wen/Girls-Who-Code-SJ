@@ -1,9 +1,11 @@
 <!DOCTYPE>
 
 <html>
-<header>
+<head>
+  <link rel="stylesheet"
+    href="hi.css">
   <title>All About Me</title>
-</header>
+</head>
 <body>
   <img src="http://2.bp.blogspot.com/-fgIpj-veUdw/Tih-1lWXtiI/AAAAAAAAB04/BKZbgKmcwSU/s1600/swirly+tree.jpeg">
 </body>
