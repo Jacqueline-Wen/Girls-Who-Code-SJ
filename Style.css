@@ -1,3 +1,9 @@
+div{
+  attribute: value;
+  margin:150%, 20px, 13pt;
+  padding:20px;
+}
+
 p{
   font-family: "Times New Roman", Times, serif;
   color: blue;
