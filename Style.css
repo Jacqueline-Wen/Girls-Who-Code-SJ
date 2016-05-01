@@ -20,6 +20,18 @@ body{
   font-size: 28px;
 }
 
+#Home {
+  padding-right: 10%; 
+  padding-left: 10%; 
+  background-color: #b0e0e6;
+}
+
+#Home:hover{
+  padding-right: 10%; 
+  padding-left: 10%; 
+  background-color: #48D1CC;
+}
+
 #About {
   padding-right: 10%; 
   padding-left: 10%; 
@@ -27,6 +39,17 @@ body{
 }
 
 #About:hover{
+  padding-right: 10%; 
+  padding-left: 10%; 
+  background-color: #48D1CC;
+}
+#Project {
+  padding-right: 10%; 
+  padding-left: 10%; 
+  background-color: #b0e0e6;
+}
+
+#Project:hover{
   padding-right: 10%; 
   padding-left: 10%; 
   background-color: #48D1CC;
