@@ -19,3 +19,15 @@ body{
   color: white;
   font-size: 28px;
 }
+
+#About {
+  padding-right: 10%; 
+  padding-left: 10%; 
+  background-color: #b0e0e6;
+}
+
+#About:hover{
+  padding-right: 10%; 
+  padding-left: 10%; 
+  background-color: #	#AFEEEE;
+}
