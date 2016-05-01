@@ -13,3 +13,10 @@ p{
 body{
   background: #b0e0e6;
 }
+
+menu {
+  font-family: "Times New Roman", Times, serif;
+  color: white;
+  background-color: 	#AFEEEE;
+  font-size: 20px;
+}
