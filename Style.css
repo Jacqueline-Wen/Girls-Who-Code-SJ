@@ -44,14 +44,14 @@ body{
   background-color: #48D1CC;
 }
 
-#Interests {
-  padding-right: 10%; 
-  padding-left: 10%; 
-  background-color: #b0e0e6;
+#Projects {
+  padding-right: 10%;
+  padding-left:10%;
+  background-color:#b0e0e6;
 }
 
-#Interests:hover{
-  padding-right: 10%; 
-  padding-left: 10%; 
+#Projects:hover {
+  padding-right: 10%;
+  padding-left: 10%;
   background-color: #48D1CC;
 }
