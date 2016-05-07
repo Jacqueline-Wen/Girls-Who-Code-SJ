@@ -4,6 +4,12 @@ div{
   padding:20px;
 }
 
+header{
+  font-family: "Times New Roman", Times, serif;
+  color: blue;
+  font-size: 30pt;
+}
+
 p{
   font-family: "Times New Roman", Times, serif;
   color: blue;
